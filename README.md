@@ -1,8 +1,8 @@
 _This README.md file is in English and Portuguese. // Esse arquivo README.md está em Inglês e Português._
 
-# EN: Freecodecamp #03 Responsive Web Design Project: Product Landing Page
+# EN: Freecodecamp #03 Responsive Web Design: Product Landing Page
 
-This repository contains my solution to the freecodecamp #03 challenge on "Responsive Web Design Project". This is part of a series of incremental HTML and CSS Projects in order to obtain the "Responsive Web Design" certificate from Freecodechallenge.
+This repository contains my solution to the freecodecamp #03 challenge on "Responsive Web Design Project". This is part of a series of incremental HTML and CSS Projects in order to obtain the "Responsive Web Design" certificate from [freeCodeCamp.](freecodecamp.org/)
 
 This first challenge was supposed to create a very simple Tribute Page with HTML and CSS. The second challenge was meant to create a simple survey form with HTML and CSS. This third one was supposed to create a landing-page of a product of your choice. 
 
@@ -19,9 +19,9 @@ The main goal is to practice the content seen in the course in order to achieve 
 ### MY SOLUTION
 ![my desktop solution of the freecodecamp number three project from the responsive web design course: a product landing-page about violins](BC_violins_landing_page.png)
 
-# EN: Freecodecamp #03 Responsive Web Projects: Landing Page de Produto
+# EN: Freecodecamp #03 Responsive Web Design: Landing Page de Produto
 
-Esse repositório contém a minha solução para o desafio número 03 do freecodecamp do curso "Responsive Web Design". Isso é parte de uma série de projetos incrementais em HTML e CSS requisitados para obtenção do certificado em "Responsive Web Design" do Freecodecamp.
+Esse repositório contém a minha solução para o desafio número 03 do freecodecamp do curso "Responsive Web Design". Isso é parte de uma série de projetos incrementais em HTML e CSS requisitados para obtenção do certificado em "Responsive Web Design" do [freeCodeCamp.](freecodecamp.org/)
 
 O primeiro desafio era para criar um versão muito simples de uma página tributo ("homenagem") feita apenas em HTML e CSS. O segundo desafio era criar um formulário de perguntas também feito em HTML e CSS. Este terceiro projeto é a criação de uma landing-page de um produto. 
 
