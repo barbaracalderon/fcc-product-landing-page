@@ -19,7 +19,7 @@ The main goal is to practice the content seen in the course in order to achieve 
 ### MY SOLUTION
 ![my desktop solution of the freecodecamp number three project from the responsive web design course: a product landing-page about violins](BC_violins_landing_page.png)
 
-# EN: Freecodecamp #01 Responsive Web Design Project: Tribute Page
+# EN: Freecodecamp #03 Responsive Landing Page: Landing Page de Produto
 
 Esse repositório contém a minha solução para o desafio número 03 do freecodecamp do curso "Responsive Web Design". Isso é parte de uma série de projetos incrementais em HTML e CSS requisitados para obtenção do certificado em "Responsive Web Design" do Freecodecamp.
 
